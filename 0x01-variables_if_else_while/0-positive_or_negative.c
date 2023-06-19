@@ -1,22 +1,3 @@
-Skip to content
-Sign up
-This repository has been archived by the owner on Apr 27, 2023. It is now read-only.
-m-gsani
-/
-alx-low_level_programming
-Public archive
-Code
-Issues
-Pull requests
-Actions
-Projects
-More
-alx-low_level_programming/0x01-variables_if_else_while/0-positive_or_negative.c
-@m-gsani
-m-gsani Updated task 0
- History
- 1 contributor
-30 lines (27 sloc)  422 Bytes
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
