@@ -6,7 +6,7 @@
  * Description -  It checks for uppercase characters
  * Return: 1 if c uppercase else return 0
  */
-int _isupper(int c)
+int _isupper(char c)
 {
 
 	if (c >= 'A' && c <= 'Z')
